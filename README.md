@@ -6,7 +6,6 @@ Link: https://to-do-swart-beta.vercel.app/
 
 Technologies Used:
 
-    Backend (Node.js + Express)
-
-    Frontend (React)
-    TailwindCSS, CSS
+Backend (Node.js + Express)
+Frontend (React)
+TailwindCSS, CSS
